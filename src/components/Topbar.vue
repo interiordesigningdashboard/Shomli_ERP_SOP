@@ -11,7 +11,7 @@
     </div>
     <!-- User Info/Actions -->
     <div class="ml-auto flex items-center space-x-4">
-      <span class="text-gray-500">Hello, Shomlian</span>
+      <span class="text-gray-500">Hello, Shomlians</span>
     </div>
   </header>
 </template>
