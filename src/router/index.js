@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import WhatIsSop from '/pages/WhatIsSop.vue'
+import WhatIsSop from '../pages/WhatIsSop.vue'
 import FactoryPurchaseSop from '../pages/FactoryPurchaseSop.vue'
 import IBRSOP from '../pages/IBRSOP.vue'
 import SitePurchaseSOP from '../pages/SitePurchaseSOP.vue'
